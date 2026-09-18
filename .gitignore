@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+*.zip
+.git/
+
+database/
+database.rar
+EIDBB.sdf
+extracted_tables/
+fft_debug/
+test_fft_fft_debug/
+*.xlsx
